@@ -1,0 +1,4 @@
+The mv command has a purpose 
+
+in life, and that is to move files. It is a happy side effect that it can be used to move an existing file into a new file, with a new name. The net effect is to rename the file, so we get what we want.
+But mv is not a dedicated file renaming tool.
